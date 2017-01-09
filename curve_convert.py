@@ -2,7 +2,7 @@ bl_info = {
     "name" : "Curve Conversion",
     "description" : "Converts Curve To Mesh To Allow Updating Of Mesh",
     "author" : "Jacob Morris - modified By Joakim Poromaa Helger",
-    "blender" : (2, 78a, 0),
+    "blender" : (2, 78, 0),
     "location" : "View 3D > Tools > Tools > Curve Conversion",
     "version" : (0, 8),
     "category" : "Object"
